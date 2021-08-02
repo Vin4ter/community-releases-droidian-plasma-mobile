@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206667091074200319.jpg)
 Plasma on sargo.                                                                                                      
                                                                                                       
-                                                                                                                                                                                                            
+                                                                                                                           
 ![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206621122039232237.jpg)     
 Plasma on mi a2 daisy (load-screen until logo redmi).                                                                                
                                                                                                                        
