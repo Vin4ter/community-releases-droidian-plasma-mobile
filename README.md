@@ -27,6 +27,7 @@ what works  | status |
 | Fingerprint| N |
 | SSH access| Y |   
 | RNDIS access| Y | 
+| Plasma| 5.20.5 | 
 
 Status  | Features |
 | --- | --- |
