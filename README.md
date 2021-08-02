@@ -1,6 +1,18 @@
 # community-releases-droidian-plasma-mobile
 ![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206667091074200319.jpg)
-![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206621122039232237.jpg)                                                                                                                                                                                          
+Plasma on sargo.                                                                                                      
+                                                                                                      
+                                                                                                                                                                                                            
+![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206621122039232237.jpg)     
+Plasma on mi a2 daisy (load-screen until logo redmi).                                                                                
+                                                                                                                       
+                                                                                                                                                        
+                                                                                                                                                        
+![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5766887944966223662.jpg)                 
+Plasma on VollaPhone (home-screen launcher).                                                                         
+                                                                       
+                                                                                                                                              
+                                                                                                                                              
 | Status| wip | 
 
 
@@ -8,6 +20,8 @@ what works  | status |
 | --- | --- |
 | GPU Acceleration | N | - Broken hwcomposer use not supported gpu
 | SIM SLOTS Dual| Y |
+| Xwayland| Y |
+| QtWayland| Y |
 | Brightness | Y |
 | Auto-Brightness | N |
 | Auto-rotation | N |
