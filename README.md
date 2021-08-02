@@ -4,7 +4,6 @@
 ![alt text](https://ds-assets.cdn.devapps.ru/iOKcsqhihC1kl28Zje9qK4MVtEiHwi1eVXZQBYrgG1jT5KsjQw.jpg?_=0)  ![alt text](https://ds-assets.cdn.devapps.ru/iOKcsiBtqUie4EGD7bIFaSfPEkyvz1cmp5OCIz2GeV1glOipAB5g.jpg?_=0) 
 
 
-Ubports | Redmi 7 / Y3 | OTA16(Release) | Halium 9.0
 
 what works  | status |
 | --- | --- |
