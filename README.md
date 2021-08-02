@@ -35,7 +35,8 @@ Status  | Features |
 | N |  Broken |                                                                    
                                                                           
 
-Releases from repo:                                                                                             
+Releases from repo:
+https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/releases                                                                                                                                                        
 
 Installation:                                                                                                                
 *flash vendor                                         
