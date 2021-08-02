@@ -1,7 +1,7 @@
 # community-releases-droidian-plasma-mobile
 ![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206667091074200319.jpg)
                                                                                                                                                                                                  
-
+| Status| wip | 
 
 
 what works  | status |
@@ -32,13 +32,13 @@ Status  | Features |
 | --- | --- |
 | P |  Partial |
 | Y |  Work |
-| N |  Not work |                                                                    
+| N |  Broken |                                                                    
                                                                           
 
 Releases from repo:                                                                                             
 
 Installation:                                                                                                                
-*flash vendor
-*flash kernel halium
-*flash gsi-rootfs
+*flash vendor                                         
+*flash kernel halium                                      
+*flash gsi-rootfs                                                       
 
