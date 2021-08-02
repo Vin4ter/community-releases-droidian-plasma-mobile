@@ -1,6 +1,6 @@
 # community-releases-droidian-plasma-mobile
 ![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206667091074200319.jpg)
-                                                                                                                                                                                                 
+![alt text](https://github.com/Vin4ter/community-releases-droidian-plasma-mobile/blob/main/photo5206621122039232237.jpg)                                                                                                                                                                                          
 | Status| wip | 
 
 
